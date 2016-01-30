@@ -8,7 +8,7 @@ Lib ProtocoleCOM_TechnoCom
 
 1-a) Message en réception
 
-+----------------+
++----------------+ 
 |msg recu en Hard|
 +----------------+
         |
