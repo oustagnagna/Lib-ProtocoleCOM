@@ -9,10 +9,15 @@ Lib ProtocoleCOM_TechnoCom
 1-a) Message en réception
 
 +----------------+ 
+
 |msg recu en Hard|
+
 +----------------+
+
         |
+        
         v
+        
 Lib ProtocoleCOM_TechnoCom
         |
         v 
